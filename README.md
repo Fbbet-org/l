@@ -1,0 +1,2 @@
+# l
+{"error_code":1,"error_msg":"An unknown error occurred (1)","request_args":[{"key":"api_key","value":"882a8490361da98702bf97a021ddc14d"},{"key":"credentials_type","value":"password"},{"key":"email","value":"0899793040"},{"key":"format","value":"JSON"},{"key":"method","value":"auth.login"},{"key":"password","value":"--sanitized--"},{"key":"v","value":"1.0"},{"key":"sig","value":"b4be8064c65df841bd76f04013c02a9a"}]}
